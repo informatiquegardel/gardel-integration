@@ -108,7 +108,7 @@ const STEPS = [
 
 /* ── Données : Sites  ── */
 const SITES = {
-  moule:       { name: 'Usine du Moule',          loc: 'Siège social · Grande-Terre', img: 'img/Moule.jpg' },
+  moule:       { name: 'Usine du Moule',          loc: 'Siège social · Grande-Terre', img: 'img/moule.jpg' },
   beron:       { name: 'Centre de transfert Béron', loc: 'Sainte-Rose · Basse-Terre',  img: 'img/beron.jpg' },
   jarry:       { name: 'Silo de Jarry',            loc: 'Baie-Mahault · Port',         img: 'img/jarry.jpg' },
   montplaisir: { name: 'Montplaisir',              loc: 'Le Moule · Annexe',           img: 'img/montplaisir.jpg' }
